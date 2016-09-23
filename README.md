@@ -1,2 +1,1 @@
-# StealthNinja
-for ninja landing page
+Credit: [this](https://blackrockdigital.github.io/startbootstrap-landing-page/)
